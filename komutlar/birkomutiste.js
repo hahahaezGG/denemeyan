@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 exports.run = function(client, message, args) {
-  message.reply('**LeaderBot Bilgi**\n**---------------------** \nMerhaba Ben LeaderBot \n**---------------------**\nEglence Icin Tasarlanmadım \n**---------------------**\nHizmet Icin Tasarlandim');
+  message.reply('**ABK Bot Bilgi**\n**---------------------** \nMerhaba Ben ABKBot \n**---------------------**\nEglence Icin Tasarlanmadım \n**---------------------**\nHizmet Icin Tasarlandim');
 };
 
 exports.conf = {
@@ -11,7 +11,7 @@ exports.conf = {
 };
 
 exports.help = {
-  name: 'yapımcı',
-  description: 'Botun Yapımcısını Gösterir.',
-  usage: 'yapımcı'
+  name: 'bilgi',
+  description: 'Botun Hakkında Bilgi.',
+  usage: 'bilgi'
 };
