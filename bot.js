@@ -14,7 +14,7 @@ const log = message => {
 };
 
 client.on("ready", () => {
-  client.user.setGame(prefix + "ABK Bot Yeni Versiyon") 
+  client.user.setGame(prefix + "yardım | BLY Bot | 7-24 |") 
   console.log("Bağlandım!")   
 });
 
