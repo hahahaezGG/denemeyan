@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 exports.run = function(client, message, args) {
-  message.reply('**ABK Bot Bilgi**\n**---------------------** \nMerhaba Ben ABKBot \n**---------------------**\nEglence Icin Tasarlanmadım \n**---------------------**\nHizmet Icin Tasarlandim');
+  message.reply('**BlaxkLion Bilgi**\n**---------------------** \nMerhaba Ben BLBBot \n**---------------------**\nEglence Icin Tasarlanmadım \n**---------------------**\nHizmet Icin Tasarlandim');
 };
 
 exports.conf = {
